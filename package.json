@@ -1,0 +1,14 @@
+{
+  "name": "typescript_learn",
+  "version": "1.0.1",
+  "description": "New typescript traning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
